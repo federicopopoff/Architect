@@ -15,7 +15,6 @@ The goal is to provide a fairly bare-bones starter kit for new projects. It does
 The Core project is the center of the Architecture design, and all other project dependencies should point toward it. As such, it has very few external dependencies. The Core project should include things like:
 
 - Entities
-- Aggregates
 - Domain Events
 - DTOs
 - Interfaces
